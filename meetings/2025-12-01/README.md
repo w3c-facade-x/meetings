@@ -67,7 +67,7 @@ The group debated how to write the official specification.
 * *Concerns:*
 
   * The group is RDF-focused; unclear whether non-RDF metamodel specification is necessary.
-  * Creating format ontologies only to describe mappings could be overkill.
+  * The possibility of creating ontologies for each format with the purpose of expressing the mappings was discarded.
 
 ### **Outcome:**
 
@@ -86,6 +86,7 @@ The group leans toward **starting with the RDF vocabulary** and exploring mappin
 **Action:**
 Els will prepare draft RML mappings for CSV and JSON examples.
 Enrico/Luigi will provide simple Facade-X examples for her to work from.
+Enrico/Luigi to prepare a first draft of the RDF vocabulary for Facade-X
 
 ## **5. Additional Technical Points**
 
