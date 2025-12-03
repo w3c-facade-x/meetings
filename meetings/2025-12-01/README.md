@@ -21,6 +21,7 @@ Below is a concise but complete summary of the meeting based on the transcript o
 # **Summary of the W3C Data Façades Community Group Meeting (Dec 1, 2025)**
 
 **Chair:** Enrico Daga, Luigi Asprino
+
 **Participants mentioned:** Ryan Shaw, Ivo Velitchkov, Salvador González Gerpe, Els de Vleeschauwer, Andy Seaborne.
 
 ## **1. Presentation: Teaching SPARQL/Facade-X – Ryan Shaw**
