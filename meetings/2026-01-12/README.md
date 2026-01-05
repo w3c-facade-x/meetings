@@ -2,7 +2,7 @@
 
 Date: [January 12th 2025, h 16:00 (CET)](https://everytimezone.com/s/434e7f38)
 
-- Case study presentation by Dr. Ivo Velichov and Salvador González Gerpe
+- Case study presentation by Dr. Ivo Velichov and Dr. Salvador González Gerpe
 - FacadeX Metamodel draft specification
 - Progress tasks from last meeting
 - AOB
