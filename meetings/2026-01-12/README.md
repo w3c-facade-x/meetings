@@ -72,7 +72,7 @@ The meeting was opened by Luigi Asprino, who welcomed participants and apologize
 - Rules and constraints are treated as first-class graph resources, improving governance.
 - JSON sources were not fully covered in the proof of concept but may be addressed in future work.
 
-## 2.6 Technical Demonstration
+### 2.6 Technical Demonstration
 Salvador González Gerpe demonstrated:
 - Transformation flow: XML → Blind Graph → One-Eyed Graph → Domain Graph
 - Use of SPARQL Anything service queries
@@ -85,7 +85,7 @@ Salvador González Gerpe demonstrated:
 
 The intermediate graph was confirmed to be primarily a performance and maintainability optimization.
 
-## 2.7 General Discussion
+### 2.7 General Discussion
 - Creating a single monolithic query to transform XML directly into the domain graph was considered infeasible due to scale and complexity.
 - Multi-step transformations were deemed necessary.
 - Suggestions included:
