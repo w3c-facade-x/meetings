@@ -60,24 +60,19 @@ The meeting was opened by Luigi Asprino, who welcomed participants and apologize
   - Separation of structural extraction from semantic interpretation
   - Hash-based URI minting
   - Increased flexibility and governance using SHACL rules and SPARQL CONSTRUCT queries
+ 
 
----
-
-## 3. Facade Strategy: Blind Graph, One-Eyed Graph, and Domain Graph
-
-### 3.1 Definitions
+### 2.4 Facade Strategy: Blind Graph, One-Eyed Graph, and Domain Graph: Definitions
 - **Blind Graph:** Raw RDF graph produced directly by SPARQL Anything, reflecting the original structure of XML/JSON sources.
 - **One-Eyed Graph:** Intermediate graph with shorter paths and meaningful predicates, improving readability and query performance.
 - **Domain Graph:** Final graph where domain semantics (e.g., e-procurement ontology) are applied using SHACL rules.
 
-### 3.2 Discussion Points
+### 2.5 Discussion Points
 - SHACL rules embed SPARQL CONSTRUCT queries and are used for both validation and inference.
 - Rules and constraints are treated as first-class graph resources, improving governance.
 - JSON sources were not fully covered in the proof of concept but may be addressed in future work.
 
----
-
-## 4. Technical Demonstration
+## 2.6 Technical Demonstration
 Salvador González Gerpe demonstrated:
 - Transformation flow: XML → Blind Graph → One-Eyed Graph → Domain Graph
 - Use of SPARQL Anything service queries
@@ -90,19 +85,16 @@ Salvador González Gerpe demonstrated:
 
 The intermediate graph was confirmed to be primarily a performance and maintainability optimization.
 
----
-
-## 5. General Discussion
+## 2.7 General Discussion
 - Creating a single monolithic query to transform XML directly into the domain graph was considered infeasible due to scale and complexity.
 - Multi-step transformations were deemed necessary.
 - Suggestions included:
   - Supporting query composition within SPARQL Anything
   - Considering the One-Eyed Graph as a potential generic alternative facade
 - Participants expressed interest in defining additional FacadeX schemas tailored to specific needs.
+ 
 
----
-
-## 6. FacadeX Specification Update
+## 3. FacadeX Specification Update
 - Luigi Asprino presented a [draft specification of the FacadeX metamodel](https://w3c-facade-x.github.io/facade-x-metamodel/), derived from previous academic work.
 - The specification:
   - Defines core concepts such as resource, data source, container, slots, and values
@@ -115,7 +107,7 @@ The intermediate graph was confirmed to be primarily a performance and maintaina
 
 ---
 
-## 7. Experiment with RML Mappings
+## 4. Experiment with RML Mappings
 Els de Vleeschauwer reported on [an experiment](https://github.com/w3c-facade-x/meetings/tree/main/meetings/2026-01-12/RML-experiment) mapping CSV data to a FacadeX-style RDF representation using RML.
 
 **Findings:**
@@ -132,7 +124,7 @@ Els de Vleeschauwer reported on [an experiment](https://github.com/w3c-facade-x/
 
 ---
 
-## 8. Decisions and Action Items
+## Decisions and Action Items
 - SPARQL Anything was confirmed as suitable for the PPDS transformation pipeline.
 - Luigi Asprino and Enrico Daga will continue refining the FacadeX specification.
 - A potential future community task was identified to explore additional facade schemas (e.g., One-Eyed Graph).
@@ -140,15 +132,10 @@ Els de Vleeschauwer reported on [an experiment](https://github.com/w3c-facade-x/
 
 ---
 
-## 9. Next Meeting
+## Next Meeting
 - **Date:** February 9  
 - **Time:** 15:00 CET
 - **Planned agenda:**
   - Review of the updated FacadeX specification
   - Presentation by Mathias Vanden Auweele on a SPARQL Anything case study in the railway domain
-
----
-
-## 10. Closing
-Luigi Asprino thanked all participants for the productive and insightful discussion. The meeting was adjourned. 
 
