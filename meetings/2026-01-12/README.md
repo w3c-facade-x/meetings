@@ -12,7 +12,7 @@ Date: [January 12th 2025, h 16:00 (CET)](https://everytimezone.com/s/434e7f38)
 
 
 # Minutes of the Meeting  
-**Community Group on FacadeX / SPARQL Anything**
+**Community Group on Facade-X**
 
 **Chair:** Luigi Asprino  
 
