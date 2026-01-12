@@ -14,7 +14,6 @@ Date: [January 12th 2025, h 16:00 (CET)](https://everytimezone.com/s/434e7f38)
 # Minutes of the Meeting  
 **Community Group on FacadeX / SPARQL Anything**
 
-**Date:** As per transcript  
 **Chair:** Luigi Asprino  
 **Participants:**  
 Luigi Asprino, Ivo Velitchkov, Salvador González Gerpe, Enrico Daga, Mathias Vanden Auweele, Els de Vleeschauwer, Emidio Stani, Lennert Van de Velde and other community members. 
