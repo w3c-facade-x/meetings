@@ -1,0 +1,71 @@
+@prefix rml: <http://w3id.org/rml/> .
+@prefix fx:  <http://sparql.xyz/facade-x/ns/> .
+@prefix xyz: <http://sparql.xyz/facade-x/data/> .
+@prefix : <http://example.com/> .
+
+:ls1 a rml:LogicalSource ;
+  rml:source [
+    a rml:RelativePathSource , rml:Source ;
+    rml:root rml:MappingDirectory ;
+    rml:path "some.csv" ;
+  ] ;
+  rml:referenceFormulation rml:CSV .
+
+:lv1 a rml:logicalView ; 
+    rml:viewOn  :ls1;
+    rml:field [
+        a rml:ExpressionField;
+        rml:fieldName "id";
+        rml:reference "id";
+    ], [
+        a rml:ExpressionField;
+        rml:fieldName "name";
+        rml:reference "name";
+    ], 
+    [
+        a rml:ExpressionField;
+        rml:fieldName "height_inches";
+        rml:reference "height_inches";
+    ].
+
+:tm1 a rml:TriplesMap;
+    rml:logicalSource :lv1;
+    rml:subjectMap [
+        rml:template "lv1"; #rml:constant gives error in burp
+        rml:termType rml:BlankNode ;
+        rml:class fx:root;
+    ] ;
+    rml:predicateObjectMap [
+        rml:predicateMap [
+            rml:template "http://www.w3.org/1999/02/22-rdf-syntax-ns#_{#}";
+        ]; 
+        rml:objectMap [
+            rml:reference "#";
+            rml:termType rml:BlankNode;
+        ];
+    ].   
+
+:tm2 a rml:TriplesMap ;
+  rml:logicalSource :lv1 ;
+  rml:subjectMap [
+        rml:reference "#";
+        rml:termType rml:BlankNode;
+  ] ;
+  rml:predicateObjectMap [
+    rml:predicate xyz:height_inches ; 
+    rml:objectMap [
+      rml:reference "height_inches" ;
+    ] ;
+  ] ;
+  rml:predicateObjectMap [
+    rml:predicate xyz:id ; 
+    rml:objectMap [
+      rml:reference "id" ;
+    ] ;
+  ] ;  
+  rml:predicateObjectMap [
+    rml:predicate xyz:name ; 
+    rml:objectMap [
+      rml:reference "name" ;
+    ] ;
+  ] . 
