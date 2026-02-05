@@ -1,6 +1,6 @@
 # Agenda
 
-Date: [January 09th 2026, h 15:00 (CET)](https://everytimezone.com/s/79651da0)
+Date: [February 09th 2026, h 15:00 (CET)](https://everytimezone.com/s/79651da0)
 
 - Case study presentation by Mathias Vanden Auweele
 - Review of the updated FacadeX specification
