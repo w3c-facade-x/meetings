@@ -18,6 +18,7 @@ Date: [February 09th 2026, h 15:00 (CET)](https://everytimezone.com/s/22a3a004)
 **Presenter:** Mathias Vanden Auweele  
 **Participants:**  
 Enrico Daga, Luigi Asprino, Mathias Vanden Auweele, Ivo Velitchkov, Emidio Stani, Marco Ratta,  Salvador González Gerpe, Els de Vleeschauwer,  Ryan Shaw, Lennert Van de Velde  and other community members.
+
 **Video recording** https://youtu.be/jg1fPEnrfcA
 
 ---
