@@ -25,7 +25,7 @@ Enrico Daga, Luigi Asprino, Mathias Vanden Auweele, Ivo Velitchkov, Emidio Stani
 
 ## 1. Case Study: Knowledge Graph for Railway Infrastructure (SPARQL Anything)
 
-This section covers the **entire presentation and related discussion**, corresponding to the main agenda item [Slides](https://github.com/Matdata-eu/Slides-W3C-Facade-X/releases/download/v1.0/dim-accessing-data-v1.0.pdf) 
+This section covers the **entire presentation and related discussion**, corresponding to the main agenda item [Slides](https://github.com/Matdata-eu/Slides-W3C-Facade-X/releases/download/v1.1/W3C-facade-x-ppt-v1.1.pdf) 
 
 ### 1.1 Background and Business Motivation
 - Mathias Vanden Auweele introduced his background in railway infrastructure data and semantic technologies.
