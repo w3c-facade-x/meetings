@@ -149,7 +149,7 @@ Key improvement areas identified:
 - Options considered:
   1. GitHub pull requests with inline comments
   2. Collaborative document tools
-  3. Hypothes.is-based web annotation
+  3. Hypothes.is-based web annotation (Ivo opened a group on Hypothesis, [Link to Join the group](https://hypothes.is/groups/x5wgwMGK/facade-x))
 - No decision was taken; all options remain open. Options can be discussed in [this issue](https://github.com/w3c-facade-x/facade-x-metamodel/issues/4).
 
 ---
