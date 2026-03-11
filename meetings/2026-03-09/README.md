@@ -15,6 +15,7 @@ Date: [March 09th 2026, h 15:00 (CET)](https://everytimezone.com/s/883dbca2)
 **Chair:** Enrico Daga    
 **Time:** 15:00–16:00 (CET)  
 **Presenter:** Magnus Bakken
+
 **Participants:**  
 Enrico Daga, Luigi Asprino, Mathias Vanden Auweele, Ivo Velitchkov,  Salvador González Gerpe, Els de Vleeschauwer, Magnus Bakken, Ryan Shaw and other community members.
 
