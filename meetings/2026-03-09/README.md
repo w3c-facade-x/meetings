@@ -12,21 +12,13 @@ Date: [March 09th 2026, h 15:00 (CET)](https://everytimezone.com/s/883dbca2)
 # Data Facades Community Group – Meeting Minutes
 
 **Date:** 9 March 2026  
-**Duration:** 1h 00m  
-**Chair:** Enrico Daga  
-
----
-
-# Minutes of the meeting
-
-**Date:** March 9, 2026  
+**Chair:** Enrico Daga    
 **Time:** 15:00–16:00 (CET)  
-**Chair:** Enrico Daga 
-**Presenter:** Mathias Vanden Auweele  
+**Presenter:** Magnus Bakken
 **Participants:**  
 Enrico Daga, Luigi Asprino, Mathias Vanden Auweele, Ivo Velitchkov,  Salvador González Gerpe, Els de Vleeschauwer, Magnus Bakken, Ryan Shaw and other community members.
 
-**Video recording** : TBA
+**Video recording** : https://youtu.be/mSUgN_3dvn0
 
 # 1. Case Study Presentation – Magnus Bakken (Data Treehouse)
 
