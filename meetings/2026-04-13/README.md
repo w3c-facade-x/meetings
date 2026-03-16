@@ -2,7 +2,6 @@
 
 Date: [April 13th 2026, h 15:00 (CET)](https://everytimezone.com/s/1991b851)
 
-- Case study presentation by Laurens Rietvald and Wouter Beek ([Triply](https://triply.cc/))
 - Review of the updated FacadeX specification
 - AOB
 
