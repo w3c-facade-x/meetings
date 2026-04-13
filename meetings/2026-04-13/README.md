@@ -28,7 +28,6 @@ Date: [April 13th 2026, h 15:00 (CET)](https://everytimezone.com/s/1991b851)
 - [#3 — Why meta-model?](https://github.com/w3c-facade-x/facade-x-specs/issues/3) *(kvistgaard, Feb 9 2026)*
 - [#12 — Do we really need the notion of "Slot"?](https://github.com/w3c-facade-x/facade-x-specs/issues/12) *(enridaga, Mar 31 2026)*
 - [#13 — Shall formal properties of FX be included in the specification?](https://github.com/w3c-facade-x/facade-x-specs/issues/13) *(enridaga, Mar 31 2026)*
-- [#10 — How to deal with data source → named graph?](https://github.com/w3c-facade-x/facade-x-specs/issues/10) *(enridaga, Jan 8 2026)*
 
 ---
 
@@ -40,6 +39,7 @@ Date: [April 13th 2026, h 15:00 (CET)](https://everytimezone.com/s/1991b851)
 - [#7 — rdfs:member](https://github.com/w3c-facade-x/facade-x-specs/issues/7) *(enridaga, Jan 22 2026)*
 - [#8 — How to represent constraints?](https://github.com/w3c-facade-x/facade-x-specs/issues/8) *(enridaga, Jan 8 2026)*
 - [#9 — How to specify URI generation for Slots?](https://github.com/w3c-facade-x/facade-x-specs/issues/9) *(enridaga, Jan 8 2026)*
+- [#10 — How to deal with data source → named graph?](https://github.com/w3c-facade-x/facade-x-specs/issues/10) *(enridaga, Jan 8 2026)*
 
 ---
 
