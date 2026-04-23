@@ -10,6 +10,8 @@ Date: [April 13th 2026, h 15:00 (CET)](https://everytimezone.com/s/1991b851)
 
 **Attendees:** Enrico Daga, Els de Vleeschauwer (imec), Ryan Benjamin Shaw, Mathias Vanden Auweele
 
+**Recording:** https://youtu.be/47r4xOGPgeE?si=labgpNLncPC4SJh5
+
 ---
 
 ## 1. Workflow & Collaboration *(~20 min)*
