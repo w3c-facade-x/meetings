@@ -100,29 +100,10 @@ Enrico gave a brief overview of the current draft RDF vocabulary. Due to time co
 
 **Namespaces.** The current draft uses `sparql.xyz` namespaces as a placeholder; these will be redirected to the Facade-X CG namespace once it is established. No decision required at this stage.
 
----
-
-## Actions
-
-| # | Action | Owner | Due |
-|---|--------|-------|-----|
-| 1 | Set up Markdown → ReSpec/HTML pipeline following the RML model | Enrico Daga | Before next meeting |
-| 2 | Add SPARQL query tests and standard-function/magic-property tests to the test suite repository structure | Enrico Daga | Before next meeting |
-| 3 | Add a test suite agenda item to the next meeting | Enrico Daga | — |
-| 4 | Add an informal, by-example introductory section to the metamodel spec | Enrico Daga / Luigi Asprino | Before next meeting |
-| 5 | Update the landing page to route readers by audience (user / format developer / implementer / academic) | Enrico Daga | Before next meeting |
-| 6 | Draft SHACL shapes for valid Facade-X output | Mathias Vanden Auweele | Before next meeting |
-| 7 | Fix vocabulary draft: remove URI generator from Values | Enrico Daga | Before next meeting |
-| 8 | Decide placement of URI generation rules (format mapping docs vs. shared section) — open issue | All | Next meeting |
-| 9 | Open/update GitHub issues for decisions and discussion points recorded in these minutes | Enrico Daga | — |
 
 ---
 
 ## Next Meeting
 
 **Date:** Monday, 4 May 2026 
-**Guest presentation:** Triply (Netherlands) — applying and implementing Facade-X in their product.
-
----
-
-*12 open issues across 3 tracks.*
+**Guest presentation:** Triply (Netherlands) — applying and implementing Facade-X in their product. 
