@@ -2,6 +2,7 @@
 
 Date: [June 15th 2026, h 15:00 (CET)](https://everytimezone.com/s/6b0a9bc5)
 
+- Invited presentation: Vladimir Alexiev (Graphwise)
 - Review of the updated FacadeX specification
 - AOB
 
