@@ -16,7 +16,7 @@ Date: [May 4th 2026, h 15:00 (CET)](https://everytimezone.com/s/d7d51a00)
 - [#19 Discuss named-graph partitioning strategy](https://github.com/w3c-facade-x/facade-x-specs/issues/19)
 - [#20 Investigate BNF-grammar-based formalisation of format mappings](https://github.com/w3c-facade-x/facade-x-specs/issues/20)
 - [#21 Specify how Façade-X maps relational/SQL databases](https://github.com/w3c-facade-x/facade-x-specs/issues/21)
-- 
+
 # Meeting Minutes
 
 **Date:** May 4th 2026, h 15:00 (CET)  
