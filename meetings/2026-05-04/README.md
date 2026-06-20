@@ -9,7 +9,14 @@ Date: [May 4th 2026, h 15:00 (CET)](https://everytimezone.com/s/d7d51a00)
 [Link to join the meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGI0MTE4YjUtYThhOC00NzJlLWE3NjAtODE4ODM3YTk2YjFj%40thread.v2/0?context=%7b%22Tid%22%3a%220e2ed455-96af-4100-bed3-a8e5fd981685%22%2c%22Oid%22%3a%2250e9ca98-1350-44d3-9737-b43b637c9ecf%22%7d)
 [Timezone](https://everytimezone.com/s/d7d51a00)
 
+# Issues opened from this meeting
 
+- [#17 Specify deterministic URI generation for containers](https://github.com/w3c-facade-x/facade-x-specs/issues/17)
+- [#18 Standardise SPARQL helper functions for Façade-X graph patterns](https://github.com/w3c-facade-x/facade-x-specs/issues/18)
+- [#19 Discuss named-graph partitioning strategy](https://github.com/w3c-facade-x/facade-x-specs/issues/19)
+- [#20 Investigate BNF-grammar-based formalisation of format mappings](https://github.com/w3c-facade-x/facade-x-specs/issues/20)
+- [#21 Specify how Façade-X maps relational/SQL databases](https://github.com/w3c-facade-x/facade-x-specs/issues/21)
+- 
 # Meeting Minutes
 
 **Date:** May 4th 2026, h 15:00 (CET)  
