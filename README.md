@@ -5,7 +5,7 @@ This repo contains the meeting archives for the W3C-Facade-X (Data Façades Comm
 
 Next meeting:
 
-- TBD
+- [2026-07-06](https://github.com/w3c-facade-x/meetings/tree/main/meetings/2026-07-06)
 
 Past meetings:
 
