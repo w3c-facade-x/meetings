@@ -2,7 +2,7 @@
 
 Date: [July 6th 2026, h 15:00 (CET)](https://everytimezone.com/s/6b0a9bc5)
 
-- Dissemination update
+- ISWC Tutorial
 - Review of the updated FacadeX specification
 - Timeline and plans for the autumn
 - AOB
