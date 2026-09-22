@@ -52,6 +52,8 @@ Ryan and Mathias are fine with the current structure. Ryan offered to help with 
 
 ## Review of the updated FacadeX specification
 
+Draft can be found here: https://w3c-facade-x.github.io/facade-x-specs/#set-of-documents
+
 ### Engine vocabulary and namespaces
 
 The current set of documents comprised a sketch of the vocabulary, the Primer, Concepts and Metamodel, and Facade-X in SPARQL. Enrico's main change was to create a **new vocabulary covering the configuration options of a Facade-X engine**. SPARQL Anything uses the same namespace for the vocabulary and for the configuration, which is not ideal, so the two have been split. There are now three namespaces:
